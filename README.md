@@ -7,7 +7,9 @@ Dual Independent-Agent Conversation Model for Enhanced Contextual and Creative C
 
 ## Overview
 
-(Update 7/23/24: I have updated this script to utilize the GPT-4-Mini model with 16,384 token output. Incredible how the models astronogmically improved improved since I wrote this almost a year ago. Enjoy this dinosaur of a script.  Readme below remains the same for record purposes)
+(Update 4/22/26: lmao I was harness engineering before it was cool!)
+
+(Update 7/23/24: I have updated this script to utilize the GPT-4-Mini model with 16,384 token output. Incredible how the models has astronomically improved since I wrote this almost a year ago. Enjoy this dinosaur of a script.  Readme below remains the same for record purposes)
 
 In the world of AI-driven automated code generation, the desire for consistent conversational understanding is ever-present. The ability to retain and leverage context is key to successful automated code generation. 
 
